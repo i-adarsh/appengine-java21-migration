@@ -83,7 +83,10 @@ mvn exec:java -Dexec.args="../sample/target/sample.war"
 [jetty-plugin]: https://www.eclipse.org/jetty/documentation/9.4.x/jetty-maven-plugin.html
 
 [google-cloud-doc](https://cloud.google.com/appengine/docs/flexible/java/war-packaging)
+
 [3rd-party](https://qiita.com/Yamane@github/items/fe057e48bb64ffc7fca6)
+
+[Stack-overflow](https://stackoverflow.com/questions/13030675/could-not-find-or-load-main-class-with-a-jar-file)
 
 ## 1. Manage Jetty
 
